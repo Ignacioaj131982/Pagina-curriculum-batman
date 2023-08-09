@@ -1,0 +1,10 @@
+img {width: 80px;height: 80px;}
+header {background-color: lightgray;color: rgb(51, 51, 138);}
+h3 {background-color: lightgray; color: rgb(51, 51, 138)}
+.Nombre {font-style: italic;font-weight: bold;}
+.Fecha {font-style: italic;font-weight: bold;}
+.Lugar {font-style: italic;font-weight: bold;}
+.Año {font-weight: bold;}
+footer {background-color: rgb(1, 106, 138);color: white;}
+.instagram {width: 25px;height: 25px;}
+.facebook {width: 25px;height: 25px;}
