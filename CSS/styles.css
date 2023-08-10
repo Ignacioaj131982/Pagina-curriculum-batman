@@ -1,4 +1,4 @@
-img {width: 80px;height: 80px;}
+img {width: 200px;height: 200px;}
 header {background-color: lightgray;color: rgb(51, 51, 138);}
 h3 {background-color: lightgray; color: rgb(51, 51, 138)}
 .nombre, .nacimiento, .lugar {font-style: italic; font-weight: bold;}
